@@ -1,5 +1,5 @@
 +++
-title = "HugoNest: The Mobile App That's Gonna Change Your Hugo Game"
+title = 'HugoNest: The Mobile App for HUGOBLOG '
 description = 'Manage your Hugo blog on the go with HugoNest—edit, push, and sync from your phone. Ditch the desk and create anytime, anywhere.'
 tags = ['Hugo', 'Mobile App', 'Blogging']
 date = '2025-04-09T19:46:19.963827'
@@ -8,7 +8,7 @@ categories = ['Technology', 'Productivity']
 series = ['Productivity']
 keywords = ['Hugo', 'Mobile Blogging', 'App', 'Markdown Editor', 'Content Creation']
 aliases = []
-lastmod = '2025-04-11T23:37:48.309397'
+lastmod = '2025-04-13T13:17:32.544697'
 rank = 10
 
 +++
